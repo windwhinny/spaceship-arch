@@ -7,6 +7,12 @@
   A section for Spaceship prompt to show if your shell is running in x86 env
 </h4>
 
+## Screenshot
+
+The `arch` section shows `i386` if current shell running in `x86` env. Otherwise it will hide by default.
+
+![alt screenshot](https://github.com/windwhinny/spaceship-arch/blob/main/assets/screenshot.png?raw=true)
+
 ## Installing
 
 You need to source this plugin somewhere in your dotfiles. Here's how to do it with some popular tools:
